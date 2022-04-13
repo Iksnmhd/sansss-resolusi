@@ -1,5 +1,7 @@
 RENCANA KONTEN
 
 -Javascript
+ * ES6
+ * framework JS
 -PHP Framework
 -Interview
